@@ -26,11 +26,11 @@
 
 ### Tâches associées
 - [ ] T2.1 : Développer le formulaire de connexion (1)
-- [ ] T2.2 : Implémenter la vérification des identifiants (1)
+- [ ] T2.2 : Implémenter la vérification des identifiants (2)
 
 ---
 
-- **US3** (Priorité : Moyenne) (Poids : 2)  
+- **US3** (Priorité : Moyenne) (Poids : 1)  
   _En tant qu’utilisateur, je souhaite me déconnecter afin de sécuriser mon compte._
 
 ### Tâches associées
